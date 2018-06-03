@@ -48,7 +48,8 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss">
+@import './style/index.scss';
 #app {
   position: relative;
 }
